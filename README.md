@@ -1,50 +1,56 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme-assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readme-assets/header-light.svg">
-  <img alt="Ming-Sir-69 · 个人项目 · ✦ EricMingle69" src="readme-assets/header-light.svg" width="100%">
+  <img alt="Eric Mingle · 个人研究工作台 · ✦ EricMingle69" src="readme-assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="PERSONAL-NOTICE.md">✦ EricMingle69</a>
 </p>
 
-# 你好，我是 Ming-Sir-69 👋
+# Eric Mingle · 个人研究工作台
 
-我喜欢拆解产品、搭建原型，也喜欢把实验中有用的部分做成能够反复使用的工具。
-这里记录我的个人项目、技术探索与工程实践。
+我在 GitHub 上是 Ming-Sir-69。我喜欢从工业工程、人因和 3D 建模出发，看人和工具之间哪里反复出错，再把能复用的部分做成小工具。现在的主线是 AI Agent 协作：知识写下以后，相关时能不能读到当前适用的版本；纠偏以后，同一个问题会不会再回来。
 
-## 我关注的方向
+## 正在研究
 
-- **AI Agent 与工具协作**：工作流设计、工具连接、上下文管理与知识检索。
-- **产品拆解与原型验证**：理解产品怎样工作，用小原型验证想法。
-- **工程、人因与体验**：从系统建模、3D CAD 和仿真，到人与工具的交互。
-- **可复用的小工具**：将文件处理、信息整理等重复步骤组织成可复用的能力。
+### Engram · 多个 Agent 共用的本地知识
 
-我的兴趣从工业工程、人因与 3D 建模，延伸到 AI Agent 工作流和工具集成。
+几个 Agent 共用一份知识时，旧事实很容易被当成当前结论。Engram 把每次纠正记成带来源的明确关系，读取时区分当前适用的内容和历史原文，相关项目出现时按关键词把它们读给 Agent。
+[仓库](https://github.com/Ming-Sir-69/engram) · [架构](https://github.com/Ming-Sir-69/engram/blob/main/docs/architecture.md)
 
-## 从这些项目开始
+### Astra Harness · 纠偏模式与复发
 
-| 项目 | 探索内容 |
+我想找的是用户反复纠正背后的共同原因。Astra Harness 登记每次方向、接受与纠偏，按共同原因跨任务聚类，标记一次干预后再看它是否复发；HCD（Human Correction Distance）是其中的纠偏评估模块。
+[仓库](https://github.com/Ming-Sir-69/astra-harness) · [研究路线](https://github.com/Ming-Sir-69/astra-harness/blob/main/docs/research-roadmap.md)
+
+### read-everything-v3 · 让资料可读
+
+文档、图片和音视频格式各异，整理起来和交给 Agent 读取都不方便。它按文件类型选择转换、OCR 或语音转写，把结果存成原文件旁边的 Markdown。
+[仓库](https://github.com/Ming-Sir-69/read-everything-v3)
+
+## 版本
+
+| 版本 | 内容 |
 | --- | --- |
-| [engram](https://github.com/Ming-Sir-69/engram) | 本地优先的个人知识库，探索记录、检索与多工具共享 |
-| [read-everything-v3](https://github.com/Ming-Sir-69/read-everything-v3) | 文档与图片内容转换、音视频语音转写，输出 Markdown |
-| [shapr3D-modeling](https://github.com/Ming-Sir-69/shapr3D-modeling) | 3D 建模探索与部分模型资料 |
+| [engram v0.4.0](https://github.com/Ming-Sir-69/engram/releases/tag/v0.4.0) | 首个对应当前核心的公开版本，研究预发布 |
+| [astra-harness v0.1.0](https://github.com/Ming-Sir-69/astra-harness/releases/tag/v0.1.0) | 首个公开的研究核心，研究预发布 |
 
-这些仓库包含工具、实验和学习记录。具体功能、使用方法、来源与完成情况，请以各项目自己的说明为准。
+这两个研究项目的公开仓里只有机制、从零合成的示例和文档，没有真实记录；版本说明机制能运行，不代表实际收益已经验证。
 
-## 我喜欢的工作方式
+## 工作台之外
 
-从一个具体问题开始，拆解它的结构，再通过小实验检验想法。
-把能够复用的部分留下，让下一次探索有一个更好的起点。
+- [shapr3D-modeling](https://github.com/Ming-Sir-69/shapr3D-modeling)：3D 建模的练习与模型归档。
+- [daily_poetry_insight_catalog](https://github.com/Ming-Sir-69/daily_poetry_insight_catalog)：按年级与单元整理的初高中语文课文目录。
+- 其他课程项目与实验见[仓库列表](https://github.com/Ming-Sir-69?tab=repositories)。
 
 保持好奇，动手验证，继续做一个快乐的海盗。🏴‍☠️
 
-## 项目与交流
+## 交流
 
-个人项目入口：[Ming-Sir-69](https://github.com/Ming-Sir-69)。
-项目问题和文档反馈，可以在对应公开仓库的 Issue 或 Pull Request 中提出。
+项目问题与文档反馈，请到对应仓库提 Issue 或 Pull Request。
 
 ---
 
 文档维护：**✦ EricMingle69** · [Ming-Sir-69](https://github.com/Ming-Sir-69)  
-[个人标识、许可与权限说明](PERSONAL-NOTICE.md) · 明暗页眉随 GitHub 主题自动切换。
+[个人标识、许可与权限说明](PERSONAL-NOTICE.md) · 页眉随浅色 / 深色主题切换。
