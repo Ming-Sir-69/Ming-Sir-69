@@ -1,50 +1,56 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme-assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readme-assets/header-light.svg">
-  <img alt="Ming-Sir-69 · Personal Projects · ✦ EricMingle69" src="readme-assets/header-light.svg" width="100%">
+  <img alt="Eric Mingle · Personal Research Workbench · ✦ EricMingle69" src="readme-assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="PERSONAL-NOTICE.md">✦ EricMingle69</a>
 </p>
 
-# Hi, I'm Ming-Sir-69 👋
+# Eric Mingle · Personal Research Workbench
 
-I enjoy taking products apart, building prototypes and turning useful parts of experiments into tools I can use again.
-This page records my personal projects, technical explorations and engineering practice.
+On GitHub I am Ming-Sir-69. I like starting from industrial engineering, human factors and 3D modeling, looking at where people and tools keep going wrong, and turning the reusable part into a small tool. The current line of work is AI agent collaboration: once knowledge is written down, can the version that applies now be read when it matters, and after a correction, does the same problem come back.
 
-## What I explore
+## Current research
 
-- **AI agents and tool collaboration**: workflow design, tool connections, context management and knowledge retrieval.
-- **Product analysis and prototype testing**: understanding how a product works and testing ideas with small prototypes.
-- **Engineering, human factors and experience**: from system modeling, 3D CAD and simulation to interaction between people and tools.
-- **Reusable small tools**: organizing recurring file-processing and information-management tasks into reusable capabilities.
+### Engram · Shared local knowledge for several agents
 
-My interests extend from industrial engineering, human factors and 3D modeling to AI agent workflows and tool integration.
+When several agents share one knowledge base, stale facts are easily taken as current conclusions. Engram records each correction as an explicit relation with its source, separates what applies now from the original history when reading, and hands matching records to the agent by keyword when a related project comes up.
+[repository](https://github.com/Ming-Sir-69/engram) · [architecture](https://github.com/Ming-Sir-69/engram/blob/main/docs/architecture.md)
 
-## Start with these projects
+### Astra Harness · Correction patterns and recurrence
 
-| Project | Exploration |
+What I want to find is the shared cause behind the corrections users keep making. Astra Harness records each direction, acceptance and correction, clusters corrections across tasks by shared cause, and marks an intervention to see whether the pattern recurs; HCD (Human Correction Distance) is its correction-evaluation module.
+[repository](https://github.com/Ming-Sir-69/astra-harness) · [research roadmap](https://github.com/Ming-Sir-69/astra-harness/blob/main/docs/research-roadmap.md)
+
+### read-everything-v3 · Making material readable
+
+Documents, images and audio/video come in different formats, which makes them awkward to organise and to hand to an agent. It picks conversion, OCR or speech transcription by file type and saves the result as Markdown next to the original file.
+[repository](https://github.com/Ming-Sir-69/read-everything-v3)
+
+## Releases
+
+| Release | Notes |
 | --- | --- |
-| [engram](https://github.com/Ming-Sir-69/engram) | A local-first personal knowledge base exploring capture, retrieval and sharing across tools |
-| [read-everything-v3](https://github.com/Ming-Sir-69/read-everything-v3) | Document and image content conversion, audio/video speech transcription, and Markdown output |
-| [shapr3D-modeling](https://github.com/Ming-Sir-69/shapr3D-modeling) | 3D modeling explorations and selected model materials |
+| [engram v0.4.0](https://github.com/Ming-Sir-69/engram/releases/tag/v0.4.0) | First public version matching the current core, research pre-release |
+| [astra-harness v0.1.0](https://github.com/Ming-Sir-69/astra-harness/releases/tag/v0.1.0) | First public research core, research pre-release |
 
-These repositories contain tools, experiments and learning records. See each project's own documentation for its features, usage, sources and completion status.
+These two research repositories hold only the mechanisms, examples invented from scratch and documentation, never actual records; a release shows that a mechanism runs, not that a real benefit has been verified.
 
-## How I like to work
+## Off the workbench
 
-Start with a concrete problem, understand its structure, then test ideas through small experiments.
-Keep the reusable parts so the next exploration begins from a better starting point.
+- [shapr3D-modeling](https://github.com/Ming-Sir-69/shapr3D-modeling): 3D modeling practice and a model archive.
+- [daily_poetry_insight_catalog](https://github.com/Ming-Sir-69/daily_poetry_insight_catalog): an index of Chinese secondary-school textbook readings by grade and unit.
+- Other coursework and experiments are in the [repository list](https://github.com/Ming-Sir-69?tab=repositories).
 
 Stay curious, test ideas by doing, and keep being a happy pirate. 🏴‍☠️
 
-## Projects and discussion
+## Discussion
 
-Personal project entry: [Ming-Sir-69](https://github.com/Ming-Sir-69).
-Project questions and documentation feedback can be raised through Issues or Pull Requests in the relevant public repository.
+Project questions and documentation feedback are welcome as Issues or Pull Requests in the relevant repository.
 
 ---
 
 Documentation maintained by **✦ EricMingle69** · [Ming-Sir-69](https://github.com/Ming-Sir-69)  
-[Personal identity, licensing and permissions](PERSONAL-NOTICE.md) · The header follows your GitHub theme.
+[Personal identity, licensing and permissions](PERSONAL-NOTICE.md) · The header switches between the light and dark themes.
