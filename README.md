@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readme-assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="readme-assets/header-light.svg">
-  <img alt="Eric Mingle · 个人研究工作台 · ✦ EricMingle69" src="readme-assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="readme-assets/em-door-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="readme-assets/em-door-light.svg">
+  <img alt="铭哥 · Eric Mingle" src="readme-assets/em-door-light.svg" width="100%">
 </picture>
 
 <p align="center">
