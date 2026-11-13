@@ -13,7 +13,7 @@
 
 仓库尚无明确的根源码许可。本轮新撰文案与页眉视觉的许可单列在 [个人文档许可](readme-assets/PERSONAL-DOCUMENTATION-LICENSE.md)，仅覆盖其原创表达；源码、旧资料、数据和第三方原文不在该新增许可范围内。
 
-本轮文档文件清单：`README.md`、`README.en.md`、`PERSONAL-NOTICE.md`、`readme-assets/header-light.svg`、`readme-assets/header-dark.svg`。许可涉及这些文件中的原创新增表达，不覆盖其中保留的第三方原文。
+本轮文档文件清单：`README.md`、`README.en.md`、`PERSONAL-NOTICE.md`、`readme-assets/em-door-light.svg`、`readme-assets/em-door-dark.svg`、`readme-assets/em-door-light-narrow.svg`、`readme-assets/em-door-dark-narrow.svg`。许可涉及这些文件中的原创新增表达，不覆盖其中保留的第三方原文。
 
 使用、修改或再分发具体内容时，请保留适用的作者与许可说明。设备、账号、付费服务、工作资料或个人数据的访问权限由其实际管理者授予，文档署名不替代这些权限。
 
@@ -25,6 +25,6 @@ Where an existing license already names this maintainer, EricMingle69 is the per
 
 There is no established root source-code license. The [personal documentation license](readme-assets/PERSONAL-DOCUMENTATION-LICENSE.md) covers only the original wording and header artwork created for this documentation refresh. It does not grant new rights over source code, existing materials, data or third-party excerpts.
 
-Documentation files in this refresh: `README.md`、`README.en.md`、`PERSONAL-NOTICE.md`、`readme-assets/header-light.svg`、`readme-assets/header-dark.svg`. Any documentation license applies to their original new expression, not retained third-party text.
+Documentation files in this refresh: `README.md`、`README.en.md`、`PERSONAL-NOTICE.md`、`readme-assets/em-door-light.svg`、`readme-assets/em-door-dark.svg`、`readme-assets/em-door-light-narrow.svg`、`readme-assets/em-door-dark-narrow.svg`. Any documentation license applies to their original new expression, not retained third-party text.
 
 When using, adapting or redistributing content, retain its applicable author and license notices. Access to devices, accounts, paid services, work materials or personal data requires permission from their actual administrator.
