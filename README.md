@@ -26,11 +26,6 @@
 我想找的是用户反复纠正背后的共同原因。Astra Harness 登记每次方向、接受与纠偏，按共同原因跨任务聚类，标记一次干预后再看它是否复发；HCD（Human Correction Distance）是其中的纠偏评估模块。
 [仓库](https://github.com/Ming-Sir-69/astra-harness) · [研究路线](https://github.com/Ming-Sir-69/astra-harness/blob/main/docs/research-roadmap.md)
 
-### read-everything-v3 · 让资料可读
-
-文档、图片和音视频格式各异，整理起来和交给 Agent 读取都不方便。它按文件类型选择转换、OCR 或语音转写，把结果存成原文件旁边的 Markdown。
-[仓库](https://github.com/Ming-Sir-69/read-everything-v3)
-
 ## 版本
 
 | 版本 | 内容 |

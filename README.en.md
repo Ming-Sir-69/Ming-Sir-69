@@ -26,11 +26,6 @@ When several agents share one knowledge base, stale facts are easily taken as cu
 What I want to find is the shared cause behind the corrections users keep making. Astra Harness records each direction, acceptance and correction, clusters corrections across tasks by shared cause, and marks an intervention to see whether the pattern recurs; HCD (Human Correction Distance) is its correction-evaluation module.
 [repository](https://github.com/Ming-Sir-69/astra-harness) · [research roadmap](https://github.com/Ming-Sir-69/astra-harness/blob/main/docs/research-roadmap.md)
 
-### read-everything-v3 · Making material readable
-
-Documents, images and audio/video come in different formats, which makes them awkward to organise and to hand to an agent. It picks conversion, OCR or speech transcription by file type and saves the result as Markdown next to the original file.
-[repository](https://github.com/Ming-Sir-69/read-everything-v3)
-
 ## Releases
 
 | Release | Notes |
