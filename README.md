@@ -10,42 +10,37 @@
   <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="PERSONAL-NOTICE.md">✦ EricMingle69</a>
 </p>
 
-# Eric Mingle · 个人研究工作台
+基于人因工程做研究和优化，想把人从不必要的负担里解放出来。
 
-我在 GitHub 上是 Ming-Sir-69。我喜欢从工业工程、人因和 3D 建模出发，看人和工具之间哪里反复出错，再把能复用的部分做成小工具。现在的主线是 AI Agent 协作：知识写下以后，相关时能不能读到当前适用的版本；纠偏以后，同一个问题会不会再回来。
+我在工厂做过质量。同一份工作要写成日报、周报、月报三遍，检验文件一翻译表格就乱。嫌烦，就自己写了小工具，把这些交给电脑。
 
-## 正在研究
+后来做什么都差不多是这个路子：看人在哪里多花了注意力、脑力、钱和时间，弄清楚为什么，改掉，再回到现实里验一遍。验过了才算做完。
 
-### Engram · 多个 Agent 共用的本地知识
+## 空调一直开着，还是到点就关？
 
-几个 Agent 共用一份知识时，旧事实很容易被当成当前结论。Engram 把每次纠正记成带来源的明确关系，读取时区分当前适用的内容和历史原文，相关项目出现时按关键词把它们读给 Agent。
-[仓库](https://github.com/Ming-Sir-69/engram) · [架构](https://github.com/Ming-Sir-69/engram/blob/main/docs/architecture.md)
+厂区宿舍有条规定：一到上班时间就断电，周六周日也一样，到了休息时间才能再开。我想让他们取消这条规定。光说热没人听，只好去算：一直开着和到点关掉，到底哪个更费电。
 
-### Astra Harness · 纠偏模式与复发
+说实话挺无奈的。想吹上空调，得先做一个研究。
 
-我想找的是用户反复纠正背后的共同原因。Astra Harness 登记每次方向、接受与纠偏，按共同原因跨任务聚类，标记一次干预后再看它是否复发；HCD（Human Correction Distance）是其中的纠偏评估模块。
-[仓库](https://github.com/Ming-Sir-69/astra-harness) · [研究路线](https://github.com/Ming-Sir-69/astra-harness/blob/main/docs/research-roadmap.md)
+## 和 AI 一起干活
 
-## 版本
+我一直在改自己和 AI 协作的方式，改到哪写到哪。
 
-| 版本 | 内容 |
-| --- | --- |
-| [engram v0.4.0](https://github.com/Ming-Sir-69/engram/releases/tag/v0.4.0) | 首个对应当前核心的公开版本，研究预发布 |
-| [astra-harness v0.1.0](https://github.com/Ming-Sir-69/astra-harness/releases/tag/v0.1.0) | 首个公开的研究核心，研究预发布 |
+以前我让它把我的每次纠正都记下来，想找出反复纠正背后的共同原因，做成了 [Astra Harness](https://github.com/Ming-Sir-69/astra-harness)。后来发现不用另外记，提交、对话、评审意见本来就留着，直接从这些里面找就行。找到以后一次只改一处，过几天回头看还犯不犯。
 
-这两个研究项目的公开仓里只有机制、从零合成的示例和文档，没有真实记录；版本说明机制能运行，不代表实际收益已经验证。
+比如最近发现，好几次返工是同一个原因：任务只写了怎么做，没写给谁用、不做什么。
 
-## 工作台之外
+[Engram](https://github.com/Ming-Sir-69/engram) 是这套做法底下的知识库。同一件事，我不想对 AI 交代第二遍。
 
-- [shapr3D-modeling](https://github.com/Ming-Sir-69/shapr3D-modeling)：3D 建模的练习与模型归档。
-- [daily_poetry_insight_catalog](https://github.com/Ming-Sir-69/daily_poetry_insight_catalog)：按年级与单元整理的初高中语文课文目录。
-- 其他课程项目与实验见[仓库列表](https://github.com/Ming-Sir-69?tab=repositories)。
+## 更早
 
-保持好奇，动手验证，继续做一个快乐的海盗。🏴‍☠️
+课程设计和毕业设计，当时都是当真做的：[行李箱的人因优化](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · [肥皂盒](https://github.com/Ming-Sir-69/Human-Factors-Engineering-Project) · [产线仿真](https://github.com/Ming-Sir-69/System-modeling) · [3D 建模练习](https://github.com/Ming-Sir-69/shapr3D-modeling)。
 
 ## 交流
 
-项目问题与文档反馈，请到对应仓库提 Issue 或 Pull Request。
+想聊人因、质量、工厂里的小工具，或者怎么和 AI 一起干活，都欢迎。项目问题请到对应仓库提 Issue 或 Pull Request。
+
+保持好奇，动手验证，继续做一个快乐的海盗。🏴‍☠️
 
 ---
 

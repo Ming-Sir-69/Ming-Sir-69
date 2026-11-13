@@ -10,42 +10,37 @@
   <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="PERSONAL-NOTICE.md">✦ EricMingle69</a>
 </p>
 
-# Eric Mingle · Personal Research Workbench
+I do research and optimisation grounded in human factors engineering. The aim is to free people from burdens they should not have to carry.
 
-On GitHub I am Ming-Sir-69. I like starting from industrial engineering, human factors and 3D modeling, looking at where people and tools keep going wrong, and turning the reusable part into a small tool. The current line of work is AI agent collaboration: once knowledge is written down, can the version that applies now be read when it matters, and after a correction, does the same problem come back.
+I used to work in quality at a factory. The same work had to be written up three times, as a daily, a weekly and a monthly report, and translating an inspection document wrecked its tables. It annoyed me, so I wrote small tools and handed those jobs to the computer.
 
-## Current research
+Since then I have worked in much the same way: look at where people spend more attention, thought, money and time than they should, find out why, change it, then go back to the real world and check. It is not done until it has been checked.
 
-### Engram · Shared local knowledge for several agents
+## Air conditioning: leave it on, or cut it off on schedule?
 
-When several agents share one knowledge base, stale facts are easily taken as current conclusions. Engram records each correction as an explicit relation with its source, separates what applies now from the original history when reading, and hands matching records to the agent by keyword when a related project comes up.
-[repository](https://github.com/Ming-Sir-69/engram) · [architecture](https://github.com/Ming-Sir-69/engram/blob/main/docs/architecture.md)
+The factory dormitory had a rule: the power was cut the moment working hours began, weekends included, and came back only at rest time. I wanted the rule dropped. Saying it was hot got nowhere, so I had to work it out: which really uses more electricity, leaving it on or cutting it off on schedule?
 
-### Astra Harness · Correction patterns and recurrence
+Honestly, it felt a bit helpless. To get the air conditioning on, I first had to do a study.
 
-What I want to find is the shared cause behind the corrections users keep making. Astra Harness records each direction, acceptance and correction, clusters corrections across tasks by shared cause, and marks an intervention to see whether the pattern recurs; HCD (Human Correction Distance) is its correction-evaluation module.
-[repository](https://github.com/Ming-Sir-69/astra-harness) · [research roadmap](https://github.com/Ming-Sir-69/astra-harness/blob/main/docs/research-roadmap.md)
+## Working with AI
 
-## Releases
+I keep changing how I work with AI, and I write down what changes as I go.
 
-| Release | Notes |
-| --- | --- |
-| [engram v0.4.0](https://github.com/Ming-Sir-69/engram/releases/tag/v0.4.0) | First public version matching the current core, research pre-release |
-| [astra-harness v0.1.0](https://github.com/Ming-Sir-69/astra-harness/releases/tag/v0.1.0) | First public research core, research pre-release |
+I used to have it log every correction I made, hoping to find the shared cause behind the ones I kept repeating. That became [Astra Harness](https://github.com/Ming-Sir-69/astra-harness). Later I found there was no need to log anything extra: the commits, conversations and review comments are already there, and the causes can be found in those. Once I find one, I change a single thing, then look again a few days later to see whether the mistake comes back.
 
-These two research repositories hold only the mechanisms, examples invented from scratch and documentation, never actual records; a release shows that a mechanism runs, not that a real benefit has been verified.
+For example, I recently found that several rounds of rework had the same cause: the task said how to do it, but not who it was for or what was out of scope.
 
-## Off the workbench
+[Engram](https://github.com/Ming-Sir-69/engram) is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
 
-- [shapr3D-modeling](https://github.com/Ming-Sir-69/shapr3D-modeling): 3D modeling practice and a model archive.
-- [daily_poetry_insight_catalog](https://github.com/Ming-Sir-69/daily_poetry_insight_catalog): an index of Chinese secondary-school textbook readings by grade and unit.
-- Other coursework and experiments are in the [repository list](https://github.com/Ming-Sir-69?tab=repositories).
+## Earlier
 
-Stay curious, test ideas by doing, and keep being a happy pirate. 🏴‍☠️
+Course projects and my graduation project, all of which I took seriously at the time: [human-factors optimisation of a suitcase](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · [a soap dish](https://github.com/Ming-Sir-69/Human-Factors-Engineering-Project) · [production-line simulation](https://github.com/Ming-Sir-69/System-modeling) · [3D modelling practice](https://github.com/Ming-Sir-69/shapr3D-modeling).
 
-## Discussion
+## Get in touch
 
-Project questions and documentation feedback are welcome as Issues or Pull Requests in the relevant repository.
+Happy to talk about human factors, quality, small tools for the factory floor, or how to work with AI. For project questions, please open an Issue or Pull Request in the relevant repository.
+
+Stay curious, check things by hand, and keep being a happy pirate. 🏴‍☠️
 
 ---
 
