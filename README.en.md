@@ -1,4 +1,6 @@
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/em-door-dark-narrow.svg">
+  <source media="(max-width: 600px)" srcset="readme-assets/em-door-light-narrow.svg">
   <source media="(prefers-color-scheme: dark)" srcset="readme-assets/em-door-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readme-assets/em-door-light.svg">
   <img alt="Eric Mingle" src="readme-assets/em-door-light.svg" width="100%">
