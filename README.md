@@ -34,7 +34,7 @@
 
 ## 更早
 
-课程设计和毕业设计，当时都是当真做的：[行李箱的人因优化](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · [肥皂盒](https://github.com/Ming-Sir-69/Human-Factors-Engineering-Project) · [产线仿真](https://github.com/Ming-Sir-69/System-modeling) · [3D 建模练习](https://github.com/Ming-Sir-69/shapr3D-modeling)。
+课程设计和毕业设计，当时都是当真做的：[行李箱的人因优化](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · 肥皂盒 · 产线仿真 · [3D 建模练习](https://github.com/Ming-Sir-69/shapr3D-modeling)。
 
 ## 交流
 

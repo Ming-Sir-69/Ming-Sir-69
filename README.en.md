@@ -34,7 +34,7 @@ For example, I recently found that several rounds of rework had the same cause: 
 
 ## Earlier
 
-Course projects and my graduation project, all of which I took seriously at the time: [human-factors optimisation of a suitcase](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · [a soap dish](https://github.com/Ming-Sir-69/Human-Factors-Engineering-Project) · [production-line simulation](https://github.com/Ming-Sir-69/System-modeling) · [3D modelling practice](https://github.com/Ming-Sir-69/shapr3D-modeling).
+Course projects and my graduation project, all of which I took seriously at the time: [human-factors optimisation of a suitcase](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · a soap dish · production-line simulation · [3D modelling practice](https://github.com/Ming-Sir-69/shapr3D-modeling).
 
 ## Get in touch
 
