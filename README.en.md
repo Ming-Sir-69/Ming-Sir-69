@@ -22,6 +22,8 @@ The factory dormitory had a rule: the power was cut the moment working hours beg
 
 Honestly, it felt a bit helpless. To get the air conditioning on, I first had to do a study.
 
+[The study is here](https://github.com/Ming-Sir-69/AC-AlwaysOn-vs-TimerOff-Energy-Comparison) (in Chinese)
+
 ## Working with AI
 
 I keep changing how I work with AI, and I write down what changes as I go.

@@ -22,6 +22,8 @@
 
 说实话挺无奈的。想吹上空调，得先做一个研究。
 
+[研究在这里](https://github.com/Ming-Sir-69/AC-AlwaysOn-vs-TimerOff-Energy-Comparison)
+
 ## 和 AI 一起干活
 
 我一直在改自己和 AI 协作的方式，改到哪写到哪。
