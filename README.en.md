@@ -22,21 +22,75 @@ The factory dormitory had a rule: the power was cut the moment working hours beg
 
 Honestly, it felt a bit helpless. To get the air conditioning on, I first had to do a study.
 
-[The study is here](https://github.com/Ming-Sir-69/AC-AlwaysOn-vs-TimerOff-Energy-Comparison) (in Chinese)
+<a href="https://github.com/Ming-Sir-69/AC-AlwaysOn-vs-TimerOff-Energy-Comparison">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/ac-energy-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/ac-energy-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/ac-energy-dark.svg">
+    <img src="readme-assets/cards/ac-energy-light.svg" alt="空调研究：人走自己关，比上班时段强制断电一季多用约 72 度（定频空调，5–95% 情景 43–123）；工作日几乎一样，多用的电集中在休息日。" width="100%">
+  </picture>
+</a>
 
 ## Working with AI
 
 I keep changing how I work with AI, and I write down what changes as I go.
 
-I used to have it log every correction I made, hoping to find the shared cause behind the ones I kept repeating. That became [Astra Harness](https://github.com/Ming-Sir-69/astra-harness). Later I found there was no need to log anything extra: the commits, conversations and review comments are already there, and the causes can be found in those. Once I find one, I change a single thing, then look again a few days later to see whether the mistake comes back.
+I used to have it log every correction I made, hoping to find the shared cause behind the ones I kept repeating. That became Astra Harness. Later I found there was no need to log anything extra: the commits, conversations and review comments are already there, and the causes can be found in those. Once I find one, I change a single thing, then look again a few days later to see whether the mistake comes back.
 
 For example, I recently found that several rounds of rework had the same cause: the task said how to do it, but not who it was for or what was out of scope.
 
-[Engram](https://github.com/Ming-Sir-69/engram) is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
+<a href="https://github.com/Ming-Sir-69/astra-harness">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/astra-harness-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/astra-harness-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/astra-harness-dark.svg">
+    <img src="readme-assets/cards/astra-harness-light.svg" alt="Astra Harness：和 AI 一起干活的工作流分享。汇集已有痕迹，归并共同原因，对照做得好的做法，一次只改一处，回头看是否再犯。" width="100%">
+  </picture>
+</a>
+
+Engram is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
+
+<a href="https://github.com/Ming-Sir-69/engram">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/engram-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/engram-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/engram-dark.svg">
+    <img src="readme-assets/cards/engram-light.svg" alt="Engram：同一件事，不想对 AI 交代第二遍。纠正带来源记下，读到的是现行版本，历史原文分开保存。公开版 0.4.0。" width="100%">
+  </picture>
+</a>
+
+All of these tools need updating, so I wrote one update module for them, upall: it checks first, and updates only when you press the key.
+
+<a href="https://github.com/Ming-Sir-69/upall">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/upall-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/upall-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/upall-dark.svg">
+    <img src="readme-assets/cards/upall-light.svg" alt="upall：AI 命令行工具的统一更新模块。先自动检查，按 Space 更新，按 Enter 退出；执行前由你决定。" width="100%">
+  </picture>
+</a>
 
 ## Earlier
 
-Course projects and my graduation project, all of which I took seriously at the time: [human-factors optimisation of a suitcase](https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project) · a soap dish · production-line simulation · [3D modelling practice](https://github.com/Ming-Sir-69/shapr3D-modeling).
+Course projects and my graduation project, all of which I took seriously at the time: human-factors optimisation of a suitcase (graduation project), a soap dish, production-line simulation, and some 3D modelling practice.
+
+<a href="https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/human-factors-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/human-factors-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/human-factors-dark.svg">
+    <img src="readme-assets/cards/human-factors-light.svg" alt="行李箱的人因优化：毕业设计，基于人因工程的结构设计优化。方法：问卷、聚类、AnyBody 人体仿真、正交实验、层次分析。" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/Ming-Sir-69/shapr3D-modeling">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/3d-modeling-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/3d-modeling-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/3d-modeling-dark.svg">
+    <img src="readme-assets/cards/3d-modeling-light.svg" alt="3D 建模练习：几何建模练习，3MF 模型归档。图为仓库模型肥皂盒的线稿。" width="100%">
+  </picture>
+</a>
 
 ## Get in touch
 
