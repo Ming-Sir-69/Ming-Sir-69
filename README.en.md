@@ -27,7 +27,7 @@ Honestly, it felt a bit helpless. To get the air conditioning on, I first had to
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/ac-energy-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/ac-energy-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/ac-energy-dark.svg">
-    <img src="readme-assets/cards/ac-energy-light.svg" alt="空调研究：人走自己关，比上班时段强制断电一季多用约 72 度（定频空调，5–95% 情景 43–123）；工作日几乎一样，多用的电集中在休息日。" width="100%">
+    <img src="readme-assets/cards/ac-energy-light.svg" alt="Dorm air-conditioning study: switching off when you leave uses about 72 kWh more per season than the scheduled work-hour power cut (fixed-speed unit, 5–95% scenario range 43–123); workdays are nearly identical, the extra use falls on rest days." width="100%">
   </picture>
 </a>
 
@@ -44,7 +44,7 @@ For example, I recently found that several rounds of rework had the same cause: 
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/astra-harness-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/astra-harness-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/astra-harness-dark.svg">
-    <img src="readme-assets/cards/astra-harness-light.svg" alt="Astra Harness：和 AI 一起干活的工作流分享。汇集已有痕迹，归并共同原因，对照做得好的做法，一次只改一处，回头看是否再犯。" width="100%">
+    <img src="readme-assets/cards/astra-harness-light.svg" alt="Astra Harness: a shared workflow for working with AI. Collect existing traces, group them by common cause, compare against what worked, change one thing at a time, then check whether the problem recurs." width="100%">
   </picture>
 </a>
 
@@ -55,7 +55,7 @@ Engram is the knowledge base underneath all this. I do not want to tell an AI th
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/engram-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/engram-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/engram-dark.svg">
-    <img src="readme-assets/cards/engram-light.svg" alt="Engram：同一件事，不想对 AI 交代第二遍。纠正带来源记下，读到的是现行版本，历史原文分开保存。公开版 0.4.0。" width="100%">
+    <img src="readme-assets/cards/engram-light.svg" alt="Engram: never explain the same thing to an AI twice. Corrections are stored with their source, reads return the current version, and the original history is kept separately. Public release 0.4.0." width="100%">
   </picture>
 </a>
 
@@ -66,7 +66,7 @@ All of these tools need updating, so I wrote one update module for them, upall: 
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/upall-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/upall-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/upall-dark.svg">
-    <img src="readme-assets/cards/upall-light.svg" alt="upall：AI 命令行工具的统一更新模块。先自动检查，按 Space 更新，按 Enter 退出；执行前由你决定。" width="100%">
+    <img src="readme-assets/cards/upall-light.svg" alt="upall: one updater for AI command-line tools. It checks first; press Space to update, Enter to exit. Nothing runs until you decide." width="100%">
   </picture>
 </a>
 
@@ -79,7 +79,7 @@ Course projects and my graduation project, all of which I took seriously at the 
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/human-factors-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/human-factors-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/human-factors-dark.svg">
-    <img src="readme-assets/cards/human-factors-light.svg" alt="行李箱的人因优化：毕业设计，基于人因工程的结构设计优化。方法：问卷、聚类、AnyBody 人体仿真、正交实验、层次分析。" width="100%">
+    <img src="readme-assets/cards/human-factors-light.svg" alt="Human-factors redesign of a suitcase (graduation project). Methods: survey, clustering, AnyBody musculoskeletal simulation, orthogonal experiments, analytic hierarchy process." width="100%">
   </picture>
 </a>
 
@@ -88,7 +88,7 @@ Course projects and my graduation project, all of which I took seriously at the 
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/3d-modeling-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/3d-modeling-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/3d-modeling-dark.svg">
-    <img src="readme-assets/cards/3d-modeling-light.svg" alt="3D 建模练习：几何建模练习，3MF 模型归档。图为仓库模型肥皂盒的线稿。" width="100%">
+    <img src="readme-assets/cards/3d-modeling-light.svg" alt="3D modeling: geometric modeling work archived as 3MF. Shown: line drawing of the soap box model from the repository." width="100%">
   </picture>
 </a>
 
