@@ -55,7 +55,7 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/engram-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/engram-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/engram-dark.svg">
-    <img src="readme-assets/cards/engram-light.svg" alt="Engram：同一件事，不想对 AI 交代第二遍。纠正带来源记下，读到的是现行版本，历史原文分开保存。公开版 0.4.0。" width="100%">
+    <img src="readme-assets/cards/engram-light.svg" alt="Engram：多个 AI 共用的本地记忆库。写入时生成向量、自动连上相近的记忆；纠正带来源取代旧版本，过时的记忆归档遗忘；空闲时自己整理。" width="100%">
   </picture>
 </a>
 

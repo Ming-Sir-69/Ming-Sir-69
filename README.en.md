@@ -55,7 +55,7 @@ Engram is the knowledge base underneath all this. I do not want to tell an AI th
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/engram-en-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/engram-en-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/engram-en-dark.svg">
-    <img src="readme-assets/cards/engram-en-light.svg" alt="Engram: never explain the same thing to an AI twice. Corrections are stored with their source, reads return the current version, and the original history is kept separately. Public release 0.4.0." width="100%">
+    <img src="readme-assets/cards/engram-en-light.svg" alt="Engram: a local memory shared by several AIs. Each record is embedded and linked to its nearest neighbours; corrections carry their source and replace the old version, stale memories are archived, and the store tidies itself while idle." width="100%">
   </picture>
 </a>
 
