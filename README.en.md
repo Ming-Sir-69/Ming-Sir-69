@@ -24,10 +24,10 @@ Honestly, it felt a bit helpless. To get the air conditioning on, I first had to
 
 <a href="https://github.com/Ming-Sir-69/AC-AlwaysOn-vs-TimerOff-Energy-Comparison">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/ac-energy-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="readme-assets/cards/ac-energy-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/ac-energy-dark.svg">
-    <img src="readme-assets/cards/ac-energy-light.svg" alt="Dorm air-conditioning study: switching off when you leave uses about 72 kWh more per season than the scheduled work-hour power cut (fixed-speed unit, 5–95% scenario range 43–123); workdays are nearly identical, the extra use falls on rest days." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/ac-energy-en-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/ac-energy-en-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/ac-energy-en-dark.svg">
+    <img src="readme-assets/cards/ac-energy-en-light.svg" alt="Dorm air-conditioning study: switching off when you leave uses about 72 kWh more per season than the scheduled work-hour power cut (fixed-speed unit, 5–95% scenario range 43–123); workdays are nearly identical, the extra use falls on rest days." width="100%">
   </picture>
 </a>
 
@@ -76,19 +76,19 @@ Course projects and my graduation project, all of which I took seriously at the 
 
 <a href="https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/human-factors-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="readme-assets/cards/human-factors-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/human-factors-dark.svg">
-    <img src="readme-assets/cards/human-factors-light.svg" alt="Human-factors redesign of a suitcase (graduation project). Methods: survey, clustering, AnyBody musculoskeletal simulation, orthogonal experiments, analytic hierarchy process." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/human-factors-en-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/human-factors-en-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/human-factors-en-dark.svg">
+    <img src="readme-assets/cards/human-factors-en-light.svg" alt="Human-factors redesign of a suitcase (graduation project). Methods: survey, clustering, AnyBody musculoskeletal simulation, orthogonal experiments, analytic hierarchy process." width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/Ming-Sir-69/shapr3D-modeling">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/3d-modeling-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="readme-assets/cards/3d-modeling-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/3d-modeling-dark.svg">
-    <img src="readme-assets/cards/3d-modeling-light.svg" alt="3D modeling: geometric modeling work archived as 3MF. Shown: line drawing of the soap box model from the repository." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/3d-modeling-en-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/3d-modeling-en-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/3d-modeling-en-dark.svg">
+    <img src="readme-assets/cards/3d-modeling-en-light.svg" alt="3D modeling: a soap box designed in Shapr3D. Sketched in pencil, inked, exploded and reassembled; rollers lather the soap without touching your hands, and the box drains on a wall rack." width="100%">
   </picture>
 </a>
 

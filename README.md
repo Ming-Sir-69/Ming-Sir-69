@@ -88,7 +88,7 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/3d-modeling-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/3d-modeling-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/3d-modeling-dark.svg">
-    <img src="readme-assets/cards/3d-modeling-light.svg" alt="3D 建模练习：几何建模练习，3MF 模型归档。图为仓库模型肥皂盒的线稿。" width="100%">
+    <img src="readme-assets/cards/3d-modeling-light.svg" alt="3D 建模：用 Shapr3D 设计的肥皂盒。铅笔起稿、墨线、爆炸再合拢；滚轴把肥皂搓出泡沫，手不碰肥皂；用完挂在墙上沥水。" width="100%">
   </picture>
 </a>
 
