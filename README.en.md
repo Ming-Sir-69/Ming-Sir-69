@@ -52,10 +52,10 @@ Engram is the knowledge base underneath all this. I do not want to tell an AI th
 
 <a href="https://github.com/Ming-Sir-69/engram">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/engram-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="readme-assets/cards/engram-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/engram-dark.svg">
-    <img src="readme-assets/cards/engram-light.svg" alt="Engram: never explain the same thing to an AI twice. Corrections are stored with their source, reads return the current version, and the original history is kept separately. Public release 0.4.0." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/engram-en-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/engram-en-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/engram-en-dark.svg">
+    <img src="readme-assets/cards/engram-en-light.svg" alt="Engram: never explain the same thing to an AI twice. Corrections are stored with their source, reads return the current version, and the original history is kept separately. Public release 0.4.0." width="100%">
   </picture>
 </a>
 
@@ -63,10 +63,10 @@ All of these tools need updating, so I wrote one update module for them, upall: 
 
 <a href="https://github.com/Ming-Sir-69/upall">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/upall-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="readme-assets/cards/upall-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/upall-dark.svg">
-    <img src="readme-assets/cards/upall-light.svg" alt="upall: one updater for AI command-line tools. It checks first; press Space to update, Enter to exit. Nothing runs until you decide." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/upall-en-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/upall-en-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/upall-en-dark.svg">
+    <img src="readme-assets/cards/upall-en-light.svg" alt="upall: one command to check and update every layer of an AI toolchain: coding CLIs, agents, skills, MCP servers, platforms and apps. It checks first; press Space to update, Enter to exit." width="100%">
   </picture>
 </a>
 

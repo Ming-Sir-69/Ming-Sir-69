@@ -66,7 +66,7 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/upall-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/upall-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/upall-dark.svg">
-    <img src="readme-assets/cards/upall-light.svg" alt="upall：AI 命令行工具的统一更新模块。先自动检查，按 Space 更新，按 Enter 退出；执行前由你决定。" width="100%">
+    <img src="readme-assets/cards/upall-light.svg" alt="upall：一个命令检查并更新整套 AI 工具：编程 CLI、Agent、Skill、MCP、平台与应用。先自动检查，按 Space 更新，按 Enter 退出。" width="100%">
   </picture>
 </a>
 
