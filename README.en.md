@@ -72,7 +72,9 @@ All of these tools need updating, so I wrote one update module for them, upall: 
 
 ## Earlier
 
-Course projects and my graduation project, all of which I took seriously at the time: human-factors optimisation of a suitcase (graduation project), a soap dish, production-line simulation, and some 3D modelling practice.
+Course projects and my graduation project, all of which I took seriously at the time.
+
+Graduation project:
 
 <a href="https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project">
   <picture>
@@ -82,6 +84,8 @@ Course projects and my graduation project, all of which I took seriously at the 
     <img src="readme-assets/cards/human-factors-en-light.svg" alt="Human-factors redesign of a suitcase (graduation project). Methods: survey, clustering, AnyBody musculoskeletal simulation, orthogonal experiments, analytic hierarchy process." width="100%">
   </picture>
 </a>
+
+Course projects and modelling:
 
 <a href="https://github.com/Ming-Sir-69/shapr3D-modeling">
   <picture>

@@ -72,7 +72,9 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
 
 ## 更早
 
-课程设计和毕业设计，当时都是当真做的：行李箱的人因优化（毕业设计）、肥皂盒、产线仿真，还有一些 3D 建模练习。
+课程设计和毕业设计，当时都是当真做的。
+
+毕业设计：
 
 <a href="https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project">
   <picture>
@@ -82,6 +84,8 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
     <img src="readme-assets/cards/human-factors-light.svg" alt="行李箱的人因优化：毕业设计，基于人因工程的结构设计优化。方法：问卷、聚类、AnyBody 人体仿真、正交实验、层次分析。" width="100%">
   </picture>
 </a>
+
+课程设计与建模：
 
 <a href="https://github.com/Ming-Sir-69/shapr3D-modeling">
   <picture>
