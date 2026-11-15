@@ -41,10 +41,10 @@ For example, I recently found that several rounds of rework had the same cause: 
 
 <a href="https://github.com/Ming-Sir-69/astra-harness">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/astra-harness-dark-mobile.svg">
-    <source media="(max-width: 600px)" srcset="readme-assets/cards/astra-harness-light-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/astra-harness-dark.svg">
-    <img src="readme-assets/cards/astra-harness-light.svg" alt="Astra Harness: a shared workflow for working with AI. Collect existing traces, group them by common cause, compare against what worked, change one thing at a time, then check whether the problem recurs." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/astra-harness-en-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="readme-assets/cards/astra-harness-en-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/astra-harness-en-dark.svg">
+    <img src="readme-assets/cards/astra-harness-en-light.svg" alt="Astra Harness: a shared workflow for working with AI. Collect existing traces, group them by common cause, compare against what worked, change one thing at a time, then check whether the problem recurs." width="100%">
   </picture>
 </a>
 
