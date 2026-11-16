@@ -93,7 +93,7 @@
 
 **03.2**　课程设计与建模
 
-<a href="https://github.com/Ming-Sir-69/shapr3D-modeling">
+<a href="https://github.com/Ming-Sir-69/Human-Factors-Engineering-Project">
   <picture>
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/3d-modeling-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/3d-modeling-light-mobile.svg">
