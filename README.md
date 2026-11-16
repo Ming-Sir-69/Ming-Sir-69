@@ -16,9 +16,9 @@
 
 后来做什么都差不多是这个路子：看人在哪里多花了注意力、脑力、钱和时间，弄清楚为什么，改掉，再回到现实里验一遍。验过了才算做完。
 
-## 01　空调一直开着，还是到点就关？
+## 01　空调该自己开关，还是到点强制断电？
 
-厂区宿舍有条规定：一到上班时间就断电，周六周日也一样，到了休息时间才能再开。我想让他们取消这条规定。光说热没人听，只好去算：一直开着和到点关掉，到底哪个更费电。
+厂区宿舍有条规定：一到上班时间就断电，周六周日也一样，到了休息时间才能再开。我想让他们取消这条规定。光说热没人听，只好去算：让人自己开关和到点强制断电，到底差多少电。
 
 说实话挺无奈的。想吹上空调，得先做一个研究。
 
@@ -27,7 +27,7 @@
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/ac-energy-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/ac-energy-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/ac-energy-dark.svg">
-    <img src="readme-assets/cards/ac-energy-light.svg" alt="空调研究：人走自己关，比上班时段强制断电一季多用约 72 度（定频空调，5–95% 情景 43–123）；工作日几乎一样，多用的电集中在休息日。" width="100%">
+    <img src="readme-assets/cards/ac-energy-light.svg" alt="空调研究：人走自己关，比上班时段强制断电一季多用约 72 kWh（定频空调，5–95% 情景 43–123）；工作日几乎一样，多用的电集中在休息日。" width="100%">
   </picture>
 </a>
 

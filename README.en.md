@@ -16,9 +16,9 @@ I used to work in quality at a factory. The same work had to be written up three
 
 Since then I have worked in much the same way: look at where people spend more attention, thought, money and time than they should, find out why, change it, then go back to the real world and check. It is not done until it has been checked.
 
-## 01 · Air conditioning: leave it on, or cut it off on schedule?
+## 01 · Air conditioning: let people switch it, or cut the power on schedule?
 
-The factory dormitory had a rule: the power was cut the moment working hours began, weekends included, and came back only at rest time. I wanted the rule dropped. Saying it was hot got nowhere, so I had to work it out: which really uses more electricity, leaving it on or cutting it off on schedule?
+The factory dormitory had a rule: the power was cut the moment working hours began, weekends included, and came back only at rest time. I wanted the rule dropped. Saying it was hot got nowhere, so I had to work it out: how much more electricity does it really take to let people switch it themselves instead of cutting it on schedule?
 
 Honestly, it felt a bit helpless. To get the air conditioning on, I first had to do a study.
 
