@@ -48,6 +48,8 @@ For example, I recently found that several rounds of rework had the same cause: 
   </picture>
 </a>
 
+<br>
+
 Engram is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
 
 <a href="https://github.com/Ming-Sir-69/engram">
@@ -58,6 +60,8 @@ Engram is the knowledge base underneath all this. I do not want to tell an AI th
     <img src="readme-assets/cards/engram-en-light.svg" alt="Engram: a local memory shared by several AIs. Each record is embedded and linked to its nearest neighbours; corrections carry their source and replace the old version, stale memories are archived, and the store tidies itself while idle." width="100%">
   </picture>
 </a>
+
+<br>
 
 All of these tools need updating, so I wrote one update module for them, upall: it checks first, and updates only when you press the key.
 
@@ -84,6 +88,8 @@ Graduation project:
     <img src="readme-assets/cards/human-factors-en-light.svg" alt="Human-factors redesign of a suitcase (graduation project). Methods: survey, clustering, AnyBody musculoskeletal simulation, orthogonal experiments, analytic hierarchy process." width="100%">
   </picture>
 </a>
+
+<br>
 
 Course projects and modelling:
 

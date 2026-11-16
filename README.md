@@ -48,6 +48,8 @@
   </picture>
 </a>
 
+<br>
+
 Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代第二遍。
 
 <a href="https://github.com/Ming-Sir-69/engram">
@@ -58,6 +60,8 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
     <img src="readme-assets/cards/engram-light.svg" alt="Engram：多个 AI 共用的本地记忆库。写入时生成向量、自动连上相近的记忆；纠正带来源取代旧版本，过时的记忆归档遗忘；空闲时自己整理。" width="100%">
   </picture>
 </a>
+
+<br>
 
 这些工具都要更新，我给它们写了一个统一的更新模块 upall：先检查，再更新，要不要更新由你按下决定。
 
@@ -84,6 +88,8 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
     <img src="readme-assets/cards/human-factors-light.svg" alt="行李箱的人因优化：毕业设计，基于人因工程的结构设计优化。方法：问卷、聚类、AnyBody 人体仿真、正交实验、层次分析。" width="100%">
   </picture>
 </a>
+
+<br>
 
 课程设计与建模：
 
