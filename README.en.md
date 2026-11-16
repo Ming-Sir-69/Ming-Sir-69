@@ -16,9 +16,9 @@ I used to work in quality at a factory. The same work had to be written up three
 
 Since then I have worked in much the same way: look at where people spend more attention, thought, money and time than they should, find out why, change it, then go back to the real world and check. It is not done until it has been checked.
 
-## 01 · Air conditioning: let people switch it, or cut the power on schedule?
+## 01 · Air conditioning: may it start early, and must the power go off on weekends?
 
-The factory dormitory had a rule: the power was cut the moment working hours began, weekends included, and came back only at rest time. I wanted the rule dropped. Saying it was hot got nowhere, so I had to work it out: how much more electricity does it really take to let people switch it themselves instead of cutting it on schedule?
+The factory dormitory had a rule: the power was cut the moment working hours began, weekends included, and came back only at rest time. I wanted the rule dropped. Saying it was hot got nowhere, so I had to work it out: how much more electricity does pre-cooling before people return, with power kept on at weekends, really take compared with the scheduled cut?
 
 Honestly, it felt a bit helpless. To get the air conditioning on, I first had to do a study.
 
@@ -27,7 +27,7 @@ Honestly, it felt a bit helpless. To get the air conditioning on, I first had to
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="readme-assets/cards/ac-energy-en-dark-mobile.svg">
     <source media="(max-width: 600px)" srcset="readme-assets/cards/ac-energy-en-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="readme-assets/cards/ac-energy-en-dark.svg">
-    <img src="readme-assets/cards/ac-energy-en-light.svg" alt="Dorm air-conditioning study: switching off when you leave uses about 72 kWh more per season than the scheduled work-hour power cut (fixed-speed unit, 5–95% scenario range 43–123); workdays are nearly identical, the extra use falls on rest days." width="100%">
+    <img src="readme-assets/cards/ac-energy-en-light.svg" alt="Dorm air-conditioning study: pre-cooling before people return and keeping power on at weekends uses about 82 kWh more per season than the scheduled cut (fixed-speed unit, 5–95% scenario range 51–160); arrival temperature falls from about 85°F to 80°F and the rest-day peak from about 91°F to 83°F." width="100%">
   </picture>
 </a>
 
