@@ -16,7 +16,7 @@ I used to work in quality at a factory. The same work had to be written up three
 
 Since then I have worked in much the same way: look at where people spend more attention, thought, money and time than they should, find out why, change it, then go back to the real world and check. It is not done until it has been checked.
 
-## Air conditioning: leave it on, or cut it off on schedule?
+## 01 · Air conditioning: leave it on, or cut it off on schedule?
 
 The factory dormitory had a rule: the power was cut the moment working hours began, weekends included, and came back only at rest time. I wanted the rule dropped. Saying it was hot got nowhere, so I had to work it out: which really uses more electricity, leaving it on or cutting it off on schedule?
 
@@ -31,11 +31,11 @@ Honestly, it felt a bit helpless. To get the air conditioning on, I first had to
   </picture>
 </a>
 
-## Working with AI
+## 02 · Working with AI
 
 I keep changing how I work with AI, and I write down what changes as I go.
 
-I used to have it log every correction I made, hoping to find the shared cause behind the ones I kept repeating. That became Astra Harness. Later I found there was no need to log anything extra: the commits, conversations and review comments are already there, and the causes can be found in those. Once I find one, I change a single thing, then look again a few days later to see whether the mistake comes back.
+**02.1** · I used to have it log every correction I made, hoping to find the shared cause behind the ones I kept repeating. That became Astra Harness. Later I found there was no need to log anything extra: the commits, conversations and review comments are already there, and the causes can be found in those. Once I find one, I change a single thing, then look again a few days later to see whether the mistake comes back.
 
 For example, I recently found that several rounds of rework had the same cause: the task said how to do it, but not who it was for or what was out of scope.
 
@@ -49,9 +49,8 @@ For example, I recently found that several rounds of rework had the same cause: 
 </a>
 
 <br>
-<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
-Engram is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
+**02.2** · Engram is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
 
 <a href="https://github.com/Ming-Sir-69/engram">
   <picture>
@@ -63,9 +62,8 @@ Engram is the knowledge base underneath all this. I do not want to tell an AI th
 </a>
 
 <br>
-<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
-All of these tools need updating, so I wrote one update module for them, upall: it checks first, and updates only when you press the key.
+**02.3** · All of these tools need updating, so I wrote one update module for them, upall: it checks first, and updates only when you press the key.
 
 <a href="https://github.com/Ming-Sir-69/upall">
   <picture>
@@ -76,11 +74,11 @@ All of these tools need updating, so I wrote one update module for them, upall: 
   </picture>
 </a>
 
-## Earlier
+## 03 · Earlier
 
 Course projects and my graduation project, all of which I took seriously at the time.
 
-Graduation project:
+**03.1** · Graduation project
 
 <a href="https://github.com/Ming-Sir-69/Ming-Sir-69-Human-Factors-Simulation-System-for-Graduation-Project">
   <picture>
@@ -92,9 +90,8 @@ Graduation project:
 </a>
 
 <br>
-<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
-Course projects and modelling:
+**03.2** · Course projects and modelling
 
 <a href="https://github.com/Ming-Sir-69/shapr3D-modeling">
   <picture>
