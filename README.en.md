@@ -48,7 +48,7 @@ For example, I recently found that several rounds of rework had the same cause: 
   </picture>
 </a>
 
-<br>
+<p>&nbsp;</p>
 
 **02.2** · Engram is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
 
@@ -61,7 +61,7 @@ For example, I recently found that several rounds of rework had the same cause: 
   </picture>
 </a>
 
-<br>
+<p>&nbsp;</p>
 
 **02.3** · All of these tools need updating, so I wrote one update module for them, upall: it checks first, and updates only when you press the key.
 
@@ -89,7 +89,7 @@ Course projects and my graduation project, all of which I took seriously at the 
   </picture>
 </a>
 
-<br>
+<p>&nbsp;</p>
 
 **03.2** · Course projects and modelling
 
