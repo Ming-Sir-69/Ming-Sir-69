@@ -49,6 +49,7 @@ For example, I recently found that several rounds of rework had the same cause: 
 </a>
 
 <br>
+<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
 Engram is the knowledge base underneath all this. I do not want to tell an AI the same thing twice.
 
@@ -62,6 +63,7 @@ Engram is the knowledge base underneath all this. I do not want to tell an AI th
 </a>
 
 <br>
+<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
 All of these tools need updating, so I wrote one update module for them, upall: it checks first, and updates only when you press the key.
 
@@ -90,6 +92,7 @@ Graduation project:
 </a>
 
 <br>
+<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
 Course projects and modelling:
 

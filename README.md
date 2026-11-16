@@ -49,6 +49,7 @@
 </a>
 
 <br>
+<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
 Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代第二遍。
 
@@ -62,6 +63,7 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
 </a>
 
 <br>
+<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
 这些工具都要更新，我给它们写了一个统一的更新模块 upall：先检查，再更新，要不要更新由你按下决定。
 
@@ -90,6 +92,7 @@ Engram 是这套做法底下的知识库。同一件事，我不想对 AI 交代
 </a>
 
 <br>
+<p align="center"><sub>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</sub></p>
 
 课程设计与建模：
 
