@@ -106,9 +106,9 @@
 
 想聊人因、质量、工厂里的小工具，或者怎么和 AI 一起干活，都欢迎。项目问题请到对应仓库提 Issue 或 Pull Request。
 
-保持好奇，动手验证，继续做一个快乐的海盗。🏴‍☠️
+保持好奇，动手验证，上了生活的贼船，就做快乐的海盗。🏴‍☠️
 
 ---
 
 文档维护：<picture><source media="(prefers-color-scheme: dark)" srcset="readme-assets/em-logo-dark.svg"><img src="readme-assets/em-logo-light.svg" alt="EM" height="13"></picture> <b>EricMingle69</b> · <a href="https://github.com/Ming-Sir-69">Ming-Sir-69</a><br>
-[个人标识、许可与权限说明](PERSONAL-NOTICE.md) · 页眉随浅色 / 深色主题切换。
+[个人标识、许可与权限说明](PERSONAL-NOTICE.md) 
