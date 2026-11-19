@@ -116,7 +116,7 @@ Some started with everyday annoyances; others are early experiments. Here is wha
 
 Happy to talk about human factors, quality, small tools for the factory floor, or how to work with AI. For project questions, please open an Issue or Pull Request in the relevant repository.
 
-Stay curious, check things by hand, and keep being a happy pirate. 🏴‍☠️
+Stay curious. Try things for yourself. Life roped me into the crew, so I might as well fly the black flag. 🏴‍☠️
 
 ---
 
