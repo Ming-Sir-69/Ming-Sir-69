@@ -123,7 +123,7 @@ The projects above are my own selection. GHFind offers another view based on pub
   </picture>
 </a>
 
-[Open the GHFind profile](https://ghfind.com/u/ming-sir-69?ref=badge) · [Browse GitHub contributions](https://github.com/Ming-Sir-69#contributions)
+[Open the GHFind profile](https://ghfind.com/u/ming-sir-69?ref=badge) · [Browse GitHub contributions](https://github.com/Ming-Sir-69#js-contribution-activity)
 
 ## Get in touch
 

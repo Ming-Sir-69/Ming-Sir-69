@@ -123,7 +123,7 @@
   </picture>
 </a>
 
-[直接查看 GHFind 详情](https://ghfind.com/u/ming-sir-69?ref=badge) · [浏览 GitHub 贡献记录](https://github.com/Ming-Sir-69#contributions)
+[直接查看 GHFind 详情](https://ghfind.com/u/ming-sir-69?ref=badge) · [浏览 GitHub 贡献记录](https://github.com/Ming-Sir-69#js-contribution-activity)
 
 ## 交流
 
