@@ -112,19 +112,6 @@ Some started with everyday annoyances; others are early experiments. Here is wha
 - [Edge literature retrieval](https://github.com/Ming-Sir-69/Edge-Literature-Web-Crawler): an early Windows prototype that collects Baidu Scholar results with Edge and sorts them into Chinese journals, conferences, and English journals.
 - [Hydrogen supply-chain search](https://github.com/Ming-Sir-69/Hydrogen-Supply-Chain-SA-Firefly): compares the cost of hydrogen production and transport combinations with a discrete simulated-annealing firefly algorithm.
 
-## A contribution perspective
-
-The projects above are my own selection. GHFind offers another view based on public GitHub data. Open the card to see its scoring dimensions and evidence.
-
-<a href="https://ghfind.com/u/ming-sir-69?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/ming-sir-69?variant=radar&amp;theme=dark&amp;lang=en">
-    <img src="https://ghfind.com/api/card/mini/ming-sir-69?variant=radar&amp;theme=light&amp;lang=en" alt="GHFind contribution radar for Ming-Sir-69" width="440">
-  </picture>
-</a>
-
-[Open the GHFind profile](https://ghfind.com/u/ming-sir-69?ref=badge) · [Browse GitHub contributions](https://github.com/Ming-Sir-69#js-contribution-activity)
-
 ## Get in touch
 
 Happy to talk about human factors, quality, small tools for the factory floor, or how to work with AI. For project questions, please open an Issue or Pull Request in the relevant repository.
