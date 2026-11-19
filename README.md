@@ -102,6 +102,29 @@
   </picture>
 </a>
 
+## 04　更多公开项目
+
+有些项目从日常麻烦出发，有些是早期做的实验。按用途放在这里，方便直接找到。
+
+- [Read Everything v3](https://github.com/Ming-Sir-69/read-everything-v3)：把文档、图片、录音和视频音轨转成 Markdown，存到原文件旁边。
+- [Fucairserver](https://github.com/Ming-Sir-69/Fucairserver)：让 Windows 接收 AirPlay 画面和声音；当前主分支还加入了 Mac 跨屏键鼠控制。
+- [Expert Process](https://github.com/Ming-Sir-69/expert-process)：给 AI 协作准备的工作方法，普通任务少建档，需要人为决定时停下来等答复。
+- [Edge 文献检索工具](https://github.com/Ming-Sir-69/Edge-Literature-Web-Crawler)：早期 Windows 原型，用 Edge 收集百度学术检索结果，按中文期刊、会议、英文期刊归类。
+- [氢能供应链寻优](https://github.com/Ming-Sir-69/Hydrogen-Supply-Chain-SA-Firefly)：用离散模拟退火萤火虫算法比较制氢与运输组合的成本。
+
+## 从贡献记录看
+
+上面是我自己选的作品。下面是 GHFind 按公开 GitHub 数据生成的另一种视角；点开可以看它的评分维度和依据。
+
+<a href="https://ghfind.com/u/ming-sir-69?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/ming-sir-69?variant=radar&amp;theme=dark&amp;lang=zh">
+    <img src="https://ghfind.com/api/card/mini/ming-sir-69?variant=radar&amp;theme=light&amp;lang=zh" alt="GHFind · Ming-Sir-69 公开 GitHub 贡献雷达" width="440">
+  </picture>
+</a>
+
+[直接查看 GHFind 详情](https://ghfind.com/u/ming-sir-69?ref=badge) · [浏览 GitHub 贡献记录](https://github.com/Ming-Sir-69#contributions)
+
 ## 交流
 
 想聊人因、质量、工厂里的小工具，或者怎么和 AI 一起干活，都欢迎。项目问题请到对应仓库提 Issue 或 Pull Request。
