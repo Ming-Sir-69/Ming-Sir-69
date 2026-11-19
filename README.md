@@ -112,19 +112,6 @@
 - [Edge 文献检索工具](https://github.com/Ming-Sir-69/Edge-Literature-Web-Crawler)：早期 Windows 原型，用 Edge 收集百度学术检索结果，按中文期刊、会议、英文期刊归类。
 - [氢能供应链寻优](https://github.com/Ming-Sir-69/Hydrogen-Supply-Chain-SA-Firefly)：用离散模拟退火萤火虫算法比较制氢与运输组合的成本。
 
-## 从贡献记录看
-
-上面是我自己选的作品。下面是 GHFind 按公开 GitHub 数据生成的另一种视角；点开可以看它的评分维度和依据。
-
-<a href="https://ghfind.com/u/ming-sir-69?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/ming-sir-69?variant=radar&amp;theme=dark&amp;lang=zh">
-    <img src="https://ghfind.com/api/card/mini/ming-sir-69?variant=radar&amp;theme=light&amp;lang=zh" alt="GHFind · Ming-Sir-69 公开 GitHub 贡献雷达" width="440">
-  </picture>
-</a>
-
-[直接查看 GHFind 详情](https://ghfind.com/u/ming-sir-69?ref=badge) · [浏览 GitHub 贡献记录](https://github.com/Ming-Sir-69#js-contribution-activity)
-
 ## 交流
 
 想聊人因、质量、工厂里的小工具，或者怎么和 AI 一起干活，都欢迎。项目问题请到对应仓库提 Issue 或 Pull Request。
